@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+}
+#background{
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+    background-image:url(images/header_bg.jpg)
+}
+h1,h2{
+    color:white
+}
+h2{
+    text-align: center;
+    margin-top: 220px;
+    font-size: 400%;
+    height: 100px;
+    top: 50%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    margin-left: 150px;
+    width: 500px;
+    position: relative;
+    top: 40px
+}
+button{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    display: block;
+    margin: auto;
+    background-color: #f9e42e;
+    padding: 15px;
+    border-radius: 5%;
+    font-size: xx-large;
+    color: #284470;
+}
+.bullet{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    margin-left: 100px;
+    color: #4c5159;
+    font-size: 225%;
+    position: relative;
+    left: 60px;
+    width: 580px;
+    bottom: 70px;
+    line-height: 50px;
+}
+#benefits{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #284470;
+    font-size: 350%;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    width: 300;
+} 
+#stuff{
+    background-color: #f0efef;
+    background-size: cover;
+    background-position: center;
+
+}
+.yeet{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #4c5159;
+    font-size: 225%;
+    margin-right: 200px;
+    position: relative;
+    left: 60px;
+    margin-top: 50px;
+    height: 200px;
+    top: 20px;
+    
+}
+#water{
+    color: aliceblue;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(images/testimonial_bg.jpg);
+}
+#waterquote{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    position:relative;
+    top: 120px;
+    font-size: 45px;
+    width: 80%;
+    text-align: center;
+    color:white;
+    
+}
+#amanda{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    position: relative;
+    font-size: 300%;
+    top: -90px;
+}
+#sign{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5%;
+    font-size: xx-large;
+    color: #284470;
+    background:#284470;
+    position: relative;
+    width: 350px;
+    height: 60x;
+    color:white;
+    top: 30px;
+}
+#button{
+    background-color: #f9e42e;
+    height: 125px;
+}
+#relax{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    color: yellow;
+    font-weight: 1000;
+    top: 85px;
+}
+
+#end{
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-color: #606161;
+    
+}
+#twitter{
+    text-align: center;
+    position: relative;
+    top: 175px;
+    left: 46%;
+}
+#facebook{
+    text-align: center;
+    position: relative;
+    top: 175px;
+    left: 50%;
+}
+.copyright{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 140%;
+    text-align: center;
+    left: 550px;
+    top: 300px;
+}
+
+
+/* symbol for id is a #
+symbol for class is a . */
+/* .pink{
+    color:#eb3467
+} */
